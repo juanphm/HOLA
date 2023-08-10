@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="@string/app_name">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Nombre"
+        android:orderInCategory="101"
+        android:title="@string/app_nombre"
+        app:showAsAction="never" />
+    <group />
+    <group />
+    <group
+        android:id="@+id/Texto"
+        android:checkableBehavior="single"
+        android:enabled="true"
+        android:menuCategory="container"
+        android:visible="true" />
+</menu>

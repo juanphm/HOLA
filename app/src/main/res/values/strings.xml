@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hola Mundo app V1.0</string>
+    <string name="app_nombre">Nombre</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Mi primer app</string>
+    <string name="second_fragment_label">Mi segunda app</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hola Mundo, mi primer codigo</string>
+    <string name="hello_second_fragment">Hola Mundo, mi segundo código. Arg: %1$s</string>
+    <string name="borrar" />
+</resources>
